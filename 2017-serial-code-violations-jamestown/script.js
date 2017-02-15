@@ -17,7 +17,7 @@ var myChart = new Chart(ctx, {
             label: '# of Violations',
             data: violationCounts,
             borderWidth: 1,
-            backgroundColor: '#b24b65'
+            backgroundColor: '#1E5D81'
         }]
     },
     options: {
